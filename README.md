@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Sudoku Solver with GUI
 
 This is a simple Sudoku solver game implemented in Python using the Pygame library. It features a graphical user interface (GUI) that allows the user to play Sudoku and solve puzzles automatically using a backtracking algorithm.
@@ -16,6 +11,7 @@ This is a simple Sudoku solver game implemented in Python using the Pygame libra
 
 ## Demo
 ![Sudoku GUI](sudoku_screenshot.png)
+
 
 ## How It Works
 - **Backtracking Algorithm**: The program uses a recursive backtracking algorithm to solve the Sudoku puzzle.

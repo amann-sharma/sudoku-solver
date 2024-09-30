@@ -10,7 +10,7 @@ This is a simple Sudoku solver game implemented in Python using the Pygame libra
 - Time tracking and strike system for wrong attempts.
 
 ## Demo
-![Sudoku GUI](https://ibb.co/rHtSfPS)
+![Sudoku GUI](https://github.com/amann-sharma/sudoku-solver/issues/1#issue-2557575051)
 
 
 ## How It Works

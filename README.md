@@ -15,7 +15,7 @@ This is a simple Sudoku solver game implemented in Python using the Pygame libra
 - Time tracking and strike system for wrong attempts.
 
 ## Demo
-![Sudoku GUI]( sudoku_screenshot.png)
+![Sudoku GUI](sudoku_screenshot.png)
 
 ## How It Works
 - **Backtracking Algorithm**: The program uses a recursive backtracking algorithm to solve the Sudoku puzzle.
